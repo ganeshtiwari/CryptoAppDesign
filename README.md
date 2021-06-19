@@ -1,8 +1,8 @@
 This is a simple Design from https://dribbble.com/shots/7001875-Crypto-app implemented using Flutter
 
 #Screen
-<img height="480px" width="350px" src="https://github.com/ganeshtiwari/CryptoAppDesign/tree/master/images/img1.png" />
+![alt text](https://github.com/ganeshtiwari/CryptoAppDesign/blob/master/images/img1.png?raw=true)
 
 #Screen
-<img height="480px" width="350px" src="https://github.com/ganeshtiwari/CryptoAppDesign/tree/master/images/img2.png" />
+![alt text](https://github.com/ganeshtiwari/CryptoAppDesign/blob/master/images/img2.png?raw=true)
 
